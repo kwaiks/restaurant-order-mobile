@@ -7,7 +7,7 @@ An Order App
 - Login and Register 
 - OTP 
 - Carousel for Promos
-- Cart
+- Cart (Soon)
 - Booking (Soon)
 - Inbox (Soon)
 - Account Management (Soon)
