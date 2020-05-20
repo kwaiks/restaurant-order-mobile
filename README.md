@@ -1,6 +1,6 @@
 # Restaurant Order Mobile App
 
-An Order App
+An Order App implementing BLoC Pattern
 
 ## Features
 
