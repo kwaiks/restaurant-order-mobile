@@ -1,0 +1,22 @@
+[
+    {
+        "desc":"Promo Numba 1",
+        "image":"assets/images/promo1.jpg"
+    },
+    {
+        "desc":"Some kind of promo",
+        "image":"assets/images/promo2.png"
+    },
+    {
+        "desc":"Promosss",
+        "image":"assets/images/promo3.jpg"
+    },
+    {
+        "desc":"Another Promo",
+        "image":"assets/images/promo4.jpg"
+    },
+    {
+        "desc":"Okay, Last promo",
+        "image":"assets/images/promo5.jpg"
+    }
+]
